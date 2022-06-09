@@ -4,7 +4,7 @@ function pizza_fingida(){
     <div id="perfil" class="bot_icon">
       <img src="icon_bot.png" alt="" />
     </div>
-    <h3 id="perfil">Sustentabilidade</h3>
+    <h3 id="perfil">Robson</h3>
   </div>
   <div id="receita">
     <h2>Pizza Fingida</h2>
@@ -35,7 +35,7 @@ function panquecas_verde(){
     <div id="perfil" class="bot_icon">
       <img src="icon_bot.png" alt="" />
     </div>
-    <h3 id="perfil">Botizin</h3>
+    <h3 id="perfil">Robson</h3>
   </div>
   <div id="receita">
     <h2>Panquecas Verdes</h2>
