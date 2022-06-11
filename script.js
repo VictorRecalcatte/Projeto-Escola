@@ -15,6 +15,8 @@ function receitas(){
     document.getElementById('msg').innerHTML =`
     <button class="receitas" onclick="pizza_fingida()">Pizza Fingida</button>
     <button class="receitas"onclick="panquecas_verde()">Panqueca Verde</button>
+    <button class="receitas"onclick="bolinho_arroz()">Bolinho de Arroz Assado</button>
+    
     `
   }, 2000)
   
@@ -43,17 +45,29 @@ function curiosidades(){
   
 
   setTimeout(() => {
-    document.getElementById('msg').innerHTML =`
-    <h1>Não tem ainda :)</h1>
-    `
-  }, 2000)
+    document.getElementById("I.A").innerHTML = `<div id="conteudo">
+  <div id="header">
+    <div id="perfil" class="bot_icon">
+      <img src="icon_bot.png" alt="" />
+    </div>
+    <h3 id="perfil">Sustentabilidade</h3>
+  </div>
+  <div id="dcr">
+    <h1>Curiosidades</h1>
+    <br>
+    <p>*Em um ano o Brasil desperdiça cerca de 27 milhões de toneladas de alimentos, sem nem um reaproveitamento.</p>
+    <br>
+    
+    
+    
 
-  setTimeout(() => {
-    document.getElementById("footer").innerHTML= `<div id="footer">
-    <input id= "refresh"class="butão" type="button" value="Voltar" onClick="window.location.reload()">
-      
-    </div>`
-    }, 2000)
+  </div>
+  <div id="footer">
+  <input id= "refresh"class="butão" type="button" value="Voltar" onClick="window.location.reload()">
+    
+  </div>
+</div>`
+  }, 2000)
 }
 
 
@@ -70,17 +84,36 @@ function dicas(){
   }, 500)
 
   
-
   setTimeout(() => {
-    document.getElementById('msg').innerHTML =`
-    <h1>Não tem ainda :)</h1>
-    `
+    document.getElementById("I.A").innerHTML = `<div id="conteudo">
+  <div id="header">
+    <div id="perfil" class="bot_icon">
+      <img src="icon_bot.png" alt="" />
+    </div>
+    <h3 id="perfil">Sustentabilidade</h3>
+  </div>
+  <div id="dcr">
+    <h1>Dicas</h1>
+    <br>
+    <p>*Normalmente, Quando usamos algum alimento como a polpa da fruta para fazer o suco, jogamos o resto fora. Mas, os talos, as cascas, sementes podem sim ser reaproveitadas para fazer um prato cheio de nutrientes. Aproveite 100% dos seus alimentos sempre que possível</p>
+    <br>
+    <p>*Separe o lixo:</p>
+    <p>Além da reciclagem ajudar o meio ambiente, separar o lixo por etapas pode ser bom até para plantações. Pois o material orgânico( restos de comida) podem servir de adubo para as plantações.</p>
+    <br>
+    <p>*Reutilize embalagens:</p>
+    <p>Pote de requeijão feito como copo depois do uso?! Isso já é um hábito sustentável.
+    Reutilizar embalagens de alimentos plásticas ou de vidro, nos motivam a consumir menos.</p>
+    <br>
+    
+    
+
+  </div>
+  <div id="footer">
+  <input id= "refresh"class="butão" type="button" value="Voltar" onClick="window.location.reload()">
+    
+  </div>
+</div>`
   }, 2000)
 
-  setTimeout(() => {
-    document.getElementById("footer").innerHTML= `<div id="footer">
-    <input id= "refresh"class="butão" type="button" value="Voltar" onClick="window.location.reload()">
-      
-    </div>`
-    }, 2000)
+  
 }
