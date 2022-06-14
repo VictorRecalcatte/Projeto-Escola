@@ -104,9 +104,10 @@ function carne(){
     <h3 id="perfil">Robson</h3>
   </div>
   <div id="dcr">
-    <h2>Carne com asca de Banana</h2>
+    <h2>Carne com casca de Banana</h2>
     <img id="img"src="carne.jpg" alt="" />
     <p><b>Ingredientes:</b></p>
+    <p>*4 Cascas de banana</p>
     <p>*Vinagre a gosto </p>
     <p>*1 Cebola picada </p>
     <p>*Azeite  </p>
