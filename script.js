@@ -17,6 +17,8 @@ function receitas(){
     <button class="receitas"onclick="panquecas_verde()">Panqueca Verde</button>
     <button class="receitas"onclick="bolinho_arroz()">Bolinho de Arroz Assado</button>
     
+    <button class="receitas"onclick="carne()">Carne com Casca de Banana</button>
+    
     `
   }, 2000)
   
@@ -50,15 +52,22 @@ function curiosidades(){
     <div id="perfil" class="bot_icon">
       <img src="icon_bot.png" alt="" />
     </div>
-    <h3 id="perfil">Sustentabilidade</h3>
+    <h3 id="perfil">Robson</h3>
   </div>
   <div id="dcr">
     <h1>Curiosidades</h1>
     <br>
-    <p>*Em um ano o Brasil desperdiça cerca de 27 milhões de toneladas de alimentos, sem nem um reaproveitamento.</p>
+    <p>*931 milhões de toneladas de alimentos desperdiçados no mundo. Isso sugere que 17% da produção total de alimentos do mundo foram para o lixo.</p>
     <br>
+    <p>*Em um ano o Brasil desperdiça cerca de 27 milhões de toneladas de alimentos, sem nem um reaproveitamento.</p>
     
-    
+    <br>
+    <p>*A França ficou em primeiro lugar na lista de um novo indice quemede a sustentabilidade dos alimentos, principalmente porque tem políticas inovadoras de combate ao desperdício de alimentos e porque a população tem uma dieta balanceada.</p> 
+    <br>
+    <p>*Brasil está em 20º lugar na lista</p>  
+    <br>
+    <p>*Os países que estão com os piores índices da lista são Índia, Arábia Saudita e Egito, por terem pela frente o desafio de lidar com a obesidade e má-nutrição da população. Nestes países, o uso dos recursos – especialmente da água – é considerado insustentável. </p>
+
     
 
   </div>
@@ -88,9 +97,9 @@ function dicas(){
     document.getElementById("I.A").innerHTML = `<div id="conteudo">
   <div id="header">
     <div id="perfil" class="bot_icon">
-      <img src="icon_bot.png" alt="" />
+      <img src="icon_bot.png" alt=""/>
     </div>
-    <h3 id="perfil">Sustentabilidade</h3>
+    <h3 id="perfil">Robson</h3>
   </div>
   <div id="dcr">
     <h1>Dicas</h1>
@@ -104,6 +113,8 @@ function dicas(){
     <p>Pote de requeijão feito como copo depois do uso?! Isso já é um hábito sustentável.
     Reutilizar embalagens de alimentos plásticas ou de vidro, nos motivam a consumir menos.</p>
     <br>
+    <p>*Valorize o consumo de produtos orgânicos:</p>
+    <p>Os alimentos orgânicos passam por um processo de produção sustentável em todas as suas fases, com o objetivo de amenizar os danos causados ao meio ambiente.</p>
     
     
 
@@ -113,7 +124,5 @@ function dicas(){
     
   </div>
 </div>`
-  }, 2000)
-
-  
+  }, 2000) 
 }
