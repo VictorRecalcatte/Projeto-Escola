@@ -64,7 +64,7 @@ function curiosidades(){
     <br>
     <p>*A França ficou em primeiro lugar na lista de um novo indice quemede a sustentabilidade dos alimentos, principalmente porque tem políticas inovadoras de combate ao desperdício de alimentos e porque a população tem uma dieta balanceada.</p> 
     <br>
-    <p>*Brasil está em 20º lugar na lista</p>  
+    <p>*Brasil está em 20º lugar nessa lista</p>  
     <br>
     <p>*Os países que estão com os piores índices da lista são Índia, Arábia Saudita e Egito, por terem pela frente o desafio de lidar com a obesidade e má-nutrição da população. Nestes países, o uso dos recursos – especialmente da água – é considerado insustentável. </p>
 
