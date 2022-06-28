@@ -1,5 +1,5 @@
 ﻿# Projeto Escola
- Olá, meu nome é Victor, estudo programação faz uns 3 meses e esse foi meu primeiro porjeto.
+ Olá, meu nome é Victor, estudo programação faz uns 2 meses e esse foi meu primeiro projeto.
  É um projeto feita para um projeto da escola, com o tema de sustentabilidade de alimentos.
  
 
