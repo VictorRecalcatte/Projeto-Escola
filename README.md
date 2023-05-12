@@ -8,6 +8,5 @@ O objetivo desse projeto era um "chatbot", onde o chat iria apresentar as funço
  
  Foi desenvolvido com o intuito de ser aberto no celular por meio de um QRCode.
  
- Gostaria de receber criticas sobre o projeto e sobre o codigo, oque pode ser melhorado e etc.
  
  link para o projeto: https://robson3c.netlify.app/
